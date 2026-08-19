@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(209, 133, 184);
+  background-color: #E0F7FA;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -8,7 +8,7 @@ body {
 
 .container {
   width: 500px;
-  background-color: rgb(223, 178, 178);
+  background-color: #FFFFFF;
   border-radius: 15px;
   box-shadow: 0 10px 25px black;
   padding: 20px;
@@ -16,7 +16,7 @@ body {
 
 h2 {
   text-align: center;
-  color: #333;
+  color: #00695C;
 }
 
 input {
